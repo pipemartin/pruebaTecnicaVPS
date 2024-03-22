@@ -1,0 +1,26 @@
+
+
+.custom-card {
+    width: 800px;
+}
+
+  .custom-card-div {
+    display: flex; 
+    justify-content: center;
+    margin-bottom: 20px; /* Agrega espacio entre cada tarjeta */
+    margin-top: 3
+    0px;
+  }
+
+  .custom-select{
+    width: 300px;
+  }
+
+  .custom-card-content {
+    display: flex;
+    align-items: center;
+  }
+
+  .custom-card-content label {
+    margin-right: 20px; /* Ajusta el espacio entre el label y el select según sea necesario */
+  }
